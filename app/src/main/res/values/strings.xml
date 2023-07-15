@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Story App Last</string>
+    <string name="warning_email">Harus Format Email</string>
+    <string name="warning_password">Minimal 8 Karakter</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Nama</string>
+    <string name="hint_name">Masukan Nama Anda</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Retry</string>
+    <string name="about_app">Aplikasi ini buat untuk tugas submission di kelas Belajar Pengembangan Aplikasi Android Intermediate, dimana kita membuat sebuah aplikasi yang dapat membuat sebuah story juga menampilkan map.</string>
+</resources>
